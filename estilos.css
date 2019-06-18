@@ -1,0 +1,6 @@
+label.taman, input.taman {
+    display: block;
+    width: 100%;
+    border: 1px solid rgba(0,0,0,0.3);
+
+}
